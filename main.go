@@ -1,7 +1,7 @@
 package main
 
 import (
-	"anagrams_server/anagr/handlers"
+	"anagrams_server/handlers"
 	"log"
 	"net/http"
 )
